@@ -1,0 +1,19 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:supplementaries:spring_launcher",
+    "item:supplementaries:ash_brick",
+    "item:quark:gravisand",
+    "#item:quark:corundum",
+    "item:quark:smithing_template_rune",
+    "item:quark:egg_parrot_gray"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
