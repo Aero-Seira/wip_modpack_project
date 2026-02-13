@@ -1,0 +1,58 @@
+# ===========================
+# Minecraft 整合包 .gitignore
+# ===========================
+
+# 敏感信息 - 账户相关
+_IAS_ACCOUNTS_DO_NOT_SEND_TO_ANYONE/
+usercache.json
+usernamecache.json
+config/ias.json
+realms_persistence.json
+
+# 运行时生成的文件
+logs/
+crash-reports/
+saves/
+screenshots/
+replay_recordings/
+replay_videos/
+
+# 临时文件和缓存
+resourcify-temp/
+modernfix/
+*-natives/
+XaeroWaypoints_BACKUP*/
+.mixin.out/
+
+# 用户特定配置
+options.txt
+optionsof.txt
+optionsshaders.txt
+servers.dat
+servers.dat_old
+PCL/
+launcher_profiles.json
+launcher_profiles_microsoft_store.json
+
+# Xaero's 小地图和世界地图数据
+xaero/
+XaeroWorldMap/
+
+# Embeddium 指纹
+config/embeddium-fingerprint.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 文件
+.vscode/
+.idea/
+*.iml
+
+# 其他临时文件
+*.tmp
+*.bak
+*.swp
+*~
