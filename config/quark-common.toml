@@ -332,7 +332,7 @@
 		#In ticks.
 		#Allowed values: [0,)
 		Cooldown = 100
-		"Render Items In Chat" = true
+		"Render Items In Chat" = false
 
 	[management.quick_armor_swapping]
 		"Swap Off Hand" = true
