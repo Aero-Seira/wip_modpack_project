@@ -54,6 +54,13 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "yes_steve_model": {
+    "model_info": true
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
