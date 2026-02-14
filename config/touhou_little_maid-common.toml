@@ -2,7 +2,7 @@
 [maid]
 	#This is a global config that applies to all maids: how often maids speak
 	#Range: 0 ~ 100
-	GlobalMaidSoundFrequency = 100
+	GlobalMaidSoundFrequency = 5
 	#This is a global config that applies to all maids: Whether or not to display chat bubbles
 	GlobalMaidShowChatBubble = true
 	#The item that can tamed maid
@@ -55,9 +55,9 @@
 	MaidRangedAttackIgnore = []
 	#Percentage chance of replace Allays spawn in pillager outposts with Maids
 	#Range: 0.0 ~ 1.0
-	ReplaceAllayPercent = 0.2
+	ReplaceAllayPercent = 0.0
 	#Enable maid random emoji/kaomoji feature
-	EnableEmoji = true
+	EnableEmoji = false
 	#The check rate (in ticks) for maid to display random emoji/kaomoji
 	#Range: 20 ~ 24000
 	EmojiCheckRate = 1200
@@ -84,13 +84,13 @@
 	MaidEatenReturnContainerList = []
 	#Recognition distance of a maid under the gun task, Suitable for sniper rifles
 	#Range: 0 ~ 512
-	MaidGunLongDistance = 64
+	MaidGunLongDistance = 16
 	#Recognition distance of a maid under the gun task, Suitable for most types
 	#Range: 0 ~ 512
-	MaidGunMediumDistance = 48
+	MaidGunMediumDistance = 12
 	#Recognition distance of a maid under the gun task, Suitable for pistols and shotguns
 	#Range: 0 ~ 512
-	MaidGunNearDistance = 32
+	MaidGunNearDistance = 8
 
 [chair]
 	#Chair can switch models freely
@@ -104,16 +104,16 @@
 	MaidFairyPowerPoint = 0.16
 	#Maid fairy's spawn probability (zombie is 100, enderman is 10)
 	#Range: > 0
-	MaidFairySpawnProbability = 70
+	MaidFairySpawnProbability = 20
 	#The following dimension do not spawn maid fairy
 	MaidFairyBlacklistDimension = ["minecraft:the_nether", "minecraft:the_end", "twilightforest:twilight_forest"]
 	#Loss power point after player death
 	#Range: 0.0 ~ 5.0
 	PlayerDeathLossPowerPoint = 1.0
 	#Give a soul spell item for player first join
-	GiveSoulSpell = true
+	GiveSoulSpell = false
 	#Give the Memorizable Gensokyo book item for player first join
-	GivePatchouliBook = true
+	GivePatchouliBook = false
 	#Shrine Lamp Effect Cost (Power Point/Per Hour)
 	#Range: 0.0 ~ 1.7976931348623157E308
 	ShrineLampEffectCost = 0.9
@@ -137,13 +137,13 @@
 
 [vanilla]
 	#Whether to replace the vanilla slime model with the yukkuri.
-	ReplaceSlimeModel = true
+	ReplaceSlimeModel = false
 	#Whether to replace the vanilla xp orb texture with the point items.
-	ReplaceXPTexture = true
+	ReplaceXPTexture = false
 	#Whether to replace the vanilla totem texture with the life point.
-	ReplaceTotemTexture = true
+	ReplaceTotemTexture = false
 	#Whether to replace the vanilla bottle of xp texture with the point items.
-	ReplaceXPBottleTexture = true
+	ReplaceXPBottleTexture = false
 
 [render]
 	EnableCompassTip = true
@@ -158,7 +158,7 @@
 
 [ai]
 	#Whether or not to enable the AI LLM feature
-	LLMEnabled = true
+	LLMEnabled = false
 	#LLM temperature, the higher this value, the more random the output will be
 	#Range: 0.0 ~ 2.0
 	LLMTemperature = 0.7
@@ -179,13 +179,13 @@
 	#Range: > 1
 	MaxTokensPerPlayer = 2147483647
 	#Whether or not to enable the TTS feature
-	TTSEnabled = true
+	TTSEnabled = false
 	#The TTS language you intend to use, will be overridden by the maid's settings
 	TTSLanguage = "en_us"
 	#TTS Proxy Address, such as 127.0.0.1:1080, empty is no proxy, SOCKS proxies are not supported
 	TTSProxyAddress = ""
 	#Whether or not to enable the STT feature
-	STTEnabled = true
+	STTEnabled = false
 	#STT Type, currently support player2 app or aliyun
 	#Allowed Values: PLAYER2, ALIYUN, SILICONFLOW
 	STTType = "PLAYER2"
