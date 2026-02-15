@@ -1,6 +1,14 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:youkaisfeasts:imitation_crab",
+    "item:youkaisfeasts:chest_of_heart_throbbing_surprise",
+    {
+      "type": "item",
+      "id": "youkaisfeasts:cucumber_slice",
+      "amount": 2
+    },
+    "item:youkaisfeasts:cucumber",
     "item:oceansdelight:elder_guardian_slice",
     "item:oceansdelight:elder_guardian_roll",
     "item:pineapple_delight:pineapple_cake",
