@@ -7,15 +7,19 @@
 #75FE6B fruitsdelight:apple_leaves
 #07A525 biomeswevegone:aspen_leaves
 #041F9D biomeswevegone:aspen_log
+#6E69B5 create:asurine
 #0F359D minecraft:azure_bluet
 #189B99 minecraft:barrel
 #F4DCA1 farmersdelight:basket
 #3DE8FE minecraft:birch_leaves
 #3BA928 minecraft:birch_log
+#E30043 minecraft:blue_carpet
 #6EAF85 biomeswevegone:blue_spruce_leaves
+#87B36D minecraft:blue_wool
 #207534 minecraft:brown_mushroom
 #3AE802 minecraft:brown_mushroom_block
 #402F05 quark:cactus_block
+#FC842A minecraft:campfire
 #6A15F8 farmersdelight:canvas_rug
 #960AF0 biomeswevegone:cika_leaves
 #7FDE54 minecraft:clay
@@ -37,6 +41,7 @@
 #80497A minecraft:dirt
 #4FA7D0 minecraft:dirt_path
 #3B0AD1 minecraft:dripstone_block
+#009B14 minecraft:farmland
 #2EC281 fruitsdelight:fig_leaves
 #13D359 biomeswevegone:flowering_skyris_leaves
 #5A75B0 minecraft:glow_lichen
@@ -118,6 +123,7 @@
 #0EAA1C minecraft:suspicious_gravel
 #329213 minecraft:sweet_berry_bush
 #59E530 create_new_age:thorium_ore
+#D7B5F3 rimcraftcore:tin_ore
 #87BAF4 minecraft:tuff
 #AE3F24 supplementaries:urn
 #88779D minecraft:vine
@@ -125,5 +131,6 @@
 #AF991B biomeswevegone:white_dacite
 #AAB273 biomeswevegone:white_overgrown_dacite
 #AFB01C biomeswevegone:white_podzol_dacite
+#BC20FE minecraft:white_wool
 #BA777C biomeswevegone:zelkova_leaves
 #6137CB create:zinc_ore
