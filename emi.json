@@ -1,6 +1,35 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:biomeswevegone:aloe_vera_juice",
+    "item:fruitsdelight:blueberry",
+    {
+      "type": "item",
+      "id": "fruitsdelight:blueberry_jelly",
+      "remainder": "item:minecraft:glass_bottle"
+    },
+    "item:fruitsdelight:blueberry_jelly_block",
+    {
+      "type": "item",
+      "id": "biomeswevegone:blueberries",
+      "amount": 5
+    },
+    "item:biomeswevegone:blueberry_pie",
+    "item:create_new_age:thorium_ore",
+    {
+      "type": "fluid",
+      "id": "northstar:brine",
+      "amount": 750
+    },
+    "item:northstar:salt",
+    "#item:forge:dusts/salt",
+    "item:vintagedelight:salt_dust",
+    "item:alexscaves:cloak_of_darkness{CanCharge:1b,CloakCharge:137,Damage:0,LastEquipMessageTime:22977L,LastLightTimestamp:24484L}",
+    "item:alexscaves:occult_gem",
+    "item:alexscaves:totem_of_possession{ControllingEntityID:-1,Damage:0}",
+    "item:alexscaves:pure_darkness",
+    "item:lightmanscurrency:display_case_magenta",
+    "item:lightmanscurrency:card_display_oak_brown",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:1,GunFireMode:\"SEMI\",GunId:\"tacz:m320\",HasBulletInBarrel:1b}",
     "item:ad_astra:tier_4_rocket{}",
     "item:oceansdelight:elder_guardian_slice",
@@ -9,7 +38,6 @@
     "item:delightful:deluxe_cheeseburger",
     "item:crabbers_delight_expand:the_real_krabby_patty",
     "item:crabbers_delight_expand:krabby_patty",
-    "item:biomeswevegone:aloe_vera_juice",
     "item:crabbersdelight:coconut",
     "item:delightful:blueberry_sack"
   ],
