@@ -1,0 +1,14 @@
+{
+	icon: "rimcraftcore:emerald_coin"
+	id: "778E7B910C4FCFF7"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{ item: "rimcraftcore:iron_coin", weight: 2.0f }
+		{ item: "rimcraftcore:copper_coin" }
+		{ item: "rimcraftcore:gold_coin", weight: 0.75f }
+		{ item: "rimcraftcore:emerald_coin", weight: 0.1f }
+		{ item: "rimcraftcore:netherite_coin", weight: 0.01f }
+	]
+	title: "硬币"
+}

@@ -170,3 +170,575 @@ Restart happened
 2026-02-15 20:46:03 [ERROR] EuphoriaPatcher: 
 2026-02-15 20:46:03 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
 2026-02-15 20:46:03 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 17:02:34 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 17:02:34 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 17:02:34 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 17:02:34 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 17:02:34 [ERROR] EuphoriaPatcher: 
+2026-02-16 17:02:34 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 17:02:34 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 17:09:46 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 17:09:46 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 17:09:46 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 17:09:46 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 17:09:46 [ERROR] EuphoriaPatcher: 
+2026-02-16 17:09:46 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 17:09:46 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 18:50:16 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 18:50:16 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 18:50:16 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 18:50:16 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 18:50:16 [ERROR] EuphoriaPatcher: 
+2026-02-16 18:50:16 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 18:50:16 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 18:58:39 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 18:58:39 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 18:58:39 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 18:58:39 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 18:58:39 [ERROR] EuphoriaPatcher: 
+2026-02-16 18:58:39 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 18:58:39 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 19:02:41 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 19:02:41 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 19:02:41 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 19:02:41 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 19:02:41 [ERROR] EuphoriaPatcher: 
+2026-02-16 19:02:41 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 19:02:41 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 19:10:05 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 19:10:05 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 19:10:05 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 19:10:05 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 19:10:05 [ERROR] EuphoriaPatcher: 
+2026-02-16 19:10:05 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 19:10:05 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 19:41:18 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 19:41:18 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 19:41:18 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 19:41:18 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 19:41:18 [ERROR] EuphoriaPatcher: 
+2026-02-16 19:41:18 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 19:41:18 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-16 19:44:53 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-16 19:44:53 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-16 19:44:53 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-16 19:44:53 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-16 19:44:53 [ERROR] EuphoriaPatcher: 
+2026-02-16 19:44:53 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-16 19:44:53 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-19 11:29:39 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-19 11:29:39 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-19 11:29:39 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-19 11:29:39 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-19 11:29:39 [ERROR] EuphoriaPatcher: 
+2026-02-19 11:29:39 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-19 11:29:39 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 16:57:14 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 16:57:14 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 16:57:14 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 16:57:14 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 16:57:14 [ERROR] EuphoriaPatcher: 
+2026-02-20 16:57:14 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 16:57:14 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 17:01:13 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 17:01:13 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 17:01:13 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 17:01:13 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 17:01:13 [ERROR] EuphoriaPatcher: 
+2026-02-20 17:01:13 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 17:01:13 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 17:05:39 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 17:05:39 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 17:05:39 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 17:05:39 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 17:05:39 [ERROR] EuphoriaPatcher: 
+2026-02-20 17:05:39 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 17:05:39 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:00:19 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:00:19 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:00:19 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:00:19 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:00:19 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:00:19 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:00:19 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:24:48 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:24:48 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:24:48 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:24:48 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:24:48 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:24:48 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:24:48 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:27:17 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:27:17 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:27:17 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:27:17 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:27:17 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:27:17 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:27:17 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:31:51 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:31:51 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:31:51 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:31:51 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:31:51 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:31:51 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:31:51 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:33:51 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:33:51 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:33:51 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:33:51 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:33:51 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:33:51 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:33:51 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:36:42 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:36:42 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:36:42 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:36:42 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:36:42 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:36:42 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:36:42 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:41:22 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:41:22 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:41:22 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:41:22 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:41:22 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:41:22 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:41:22 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:44:52 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:44:52 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:44:52 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:44:52 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:44:52 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:44:52 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:44:52 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:47:58 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:47:58 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:47:58 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:47:58 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:47:58 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:47:58 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:47:58 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:51:11 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:51:11 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:51:11 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:51:11 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:51:11 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:51:11 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:51:11 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:55:40 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:55:40 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:55:40 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:55:40 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:55:40 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:55:40 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:55:40 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 18:59:07 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 18:59:07 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 18:59:07 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 18:59:07 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 18:59:07 [ERROR] EuphoriaPatcher: 
+2026-02-20 18:59:07 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 18:59:07 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:00:29 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:00:29 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:00:29 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:00:29 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:00:29 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:00:29 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:00:29 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:03:15 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:03:15 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:03:15 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:03:15 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:03:15 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:03:15 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:03:15 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:13:21 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:13:21 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:13:21 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:13:21 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:13:21 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:13:21 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:13:21 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:18:47 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:18:47 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:18:47 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:18:47 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:18:47 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:18:47 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:18:47 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:30:02 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:30:02 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:30:02 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:30:02 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:30:02 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:30:02 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:30:02 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:36:17 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:36:17 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:36:17 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:36:17 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:36:17 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:36:17 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:36:17 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:46:55 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:46:55 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:46:55 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:46:55 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:46:55 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:46:55 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:46:55 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 19:54:41 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 19:54:41 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 19:54:41 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 19:54:41 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 19:54:41 [ERROR] EuphoriaPatcher: 
+2026-02-20 19:54:41 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 19:54:41 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-20 20:21:41 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-20 20:21:41 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-20 20:21:41 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-20 20:21:41 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-20 20:21:41 [ERROR] EuphoriaPatcher: 
+2026-02-20 20:21:41 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-20 20:21:41 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 19:48:41 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 19:48:41 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 19:48:41 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 19:48:41 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 19:48:41 [ERROR] EuphoriaPatcher: 
+2026-02-22 19:48:41 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 19:48:41 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 19:56:53 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 19:56:53 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 19:56:53 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 19:56:53 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 19:56:53 [ERROR] EuphoriaPatcher: 
+2026-02-22 19:56:53 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 19:56:53 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 19:58:55 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 19:58:55 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 19:58:55 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 19:58:55 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 19:58:55 [ERROR] EuphoriaPatcher: 
+2026-02-22 19:58:55 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 19:58:55 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:02:00 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:02:00 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:02:00 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:02:00 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:02:00 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:02:00 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:02:00 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:04:23 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:04:23 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:04:23 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:04:23 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:04:23 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:04:23 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:04:23 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:11:05 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:11:05 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:11:05 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:11:05 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:11:05 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:11:05 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:11:05 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:12:16 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:12:16 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:12:16 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:12:16 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:12:16 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:12:16 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:12:16 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:13:34 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:13:34 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:13:34 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:13:34 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:13:34 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:13:34 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:13:34 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:18:53 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:18:53 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:18:53 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:18:53 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:18:53 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:18:53 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:18:53 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:20:37 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:20:37 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:20:37 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:20:37 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:20:37 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:20:37 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:20:37 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:25:06 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:25:06 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:25:06 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:25:06 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:25:06 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:25:06 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:25:06 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:33:37 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:33:37 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:33:37 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:33:37 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:33:37 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:33:37 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:33:37 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:38:29 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:38:29 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:38:29 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:38:29 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:38:29 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:38:29 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:38:29 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:45:47 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:45:47 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:45:47 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:45:47 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:45:47 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:45:47 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:45:47 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:50:29 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:50:29 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:50:29 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:50:29 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:50:29 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:50:29 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:50:29 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 20:56:26 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 20:56:26 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 20:56:26 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 20:56:26 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 20:56:26 [ERROR] EuphoriaPatcher: 
+2026-02-22 20:56:26 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 20:56:26 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 21:01:25 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 21:01:25 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 21:01:25 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 21:01:25 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 21:01:25 [ERROR] EuphoriaPatcher: 
+2026-02-22 21:01:25 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 21:01:25 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 21:10:53 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 21:10:53 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 21:10:53 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 21:10:53 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 21:10:53 [ERROR] EuphoriaPatcher: 
+2026-02-22 21:10:53 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 21:10:53 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2026-02-22 21:22:09 [ERROR] EuphoriaPatcher: === SHADER NOT FOUND ===
+2026-02-22 21:22:09 [ERROR] EuphoriaPatcher: Required: ComplementaryShaders r5.7.1
+2026-02-22 21:22:09 [ERROR] EuphoriaPatcher: Found: ComplementaryUnbound_r5.7.zip
+2026-02-22 21:22:09 [ERROR] EuphoriaPatcher: You have an older version installed.
+2026-02-22 21:22:09 [ERROR] EuphoriaPatcher: 
+2026-02-22 21:22:09 [ERROR] EuphoriaPatcher: SOLUTION: Download and install ComplementaryShaders r5.7.1
+2026-02-22 21:22:09 [ERROR] EuphoriaPatcher: Download from: https://www.complementary.dev/

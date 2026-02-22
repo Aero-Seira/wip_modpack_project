@@ -1,0 +1,9 @@
+{
+  "id" : "76d796c51fe743a99b330cfbd478ce40",
+  "name" : "Aero_Seira",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc2NjA0ODgyOSwKICAicHJvZmlsZUlkIiA6ICI3NmQ3OTZjNTFmZTc0M2E5OWIzMzBjZmJkNDc4Y2U0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZXJvX1NlaXJhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhjNDIxN2YzZTgzMWM0YmQwNTZkOTE3MDMyM2Y1ZTM4OTU5OTVjNTU1MDBmMTQ4ZGQzOGY2NGI0Zjg2NTkxNDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

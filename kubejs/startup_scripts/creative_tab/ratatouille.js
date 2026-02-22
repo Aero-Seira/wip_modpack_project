@@ -1,0 +1,35 @@
+StartupEvents.modifyCreativeTab("ratatouille:base", e => {
+  e.remove([
+    'ratatouille:compost_residue',
+    'ratatouille:boil_stone',
+    'ratatouille:ripen_matter_fold',
+    'ratatouille:compost_mass',
+    'ratatouille:bio_gas_bucket',
+    'ratatouille:compost_tea_bucket',
+    'ratatouille:bio_gas',
+    'ratatouille:compost_tea',
+    'ratatouille:compost_residue_fluid',
+  ])
+  e.add([
+    'rimcraft:empty_popsicle_mold_filled',
+    'rimcraft:empty_popsicle_mold_solid',
+    'rimcraft:chorus_fruit_popsicle_mold_filled',
+    'rimcraft:chorus_fruit_popsicle_mold_solid',
+    'rimcraft:tear_popsicle_mold_filled',
+    'rimcraft:tear_popsicle_mold_solid',
+    'rimcraft:milk_popsicle_mold_filled',
+    'rimcraft:milk_popsicle_mold_solid',
+    'rimcraft:hamimelon_popsicle_mold_filled',
+    'rimcraft:hamimelon_popsicle_mold_solid',
+    'rimcraft:lime_popsicle_mold_filled',
+    'rimcraft:lime_popsicle_mold_solid',
+    'rimcraft:kiwi_popsicle_mold_filled',
+    'rimcraft:kiwi_popsicle_mold_solid',
+    'rimcraft:berry_popsicle_mold_filled',
+    'rimcraft:berry_popsicle_mold_solid',
+    'rimcraft:big_popsicle_mold_filled',
+    'rimcraft:big_popsicle_mold_solid',
+    'rimcraft:green_tongue_mold_filled',
+    'rimcraft:green_tongue_mold_solid',
+  ])
+})

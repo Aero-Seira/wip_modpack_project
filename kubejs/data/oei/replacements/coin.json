@@ -1,0 +1,36 @@
+[
+    {
+        "matchItems": [
+            "createdeco:iron_coin",
+            "lightmanscurrency:coin_iron"
+        ],
+        "resultItems": "rimcraftcore:iron_coin" 
+    },
+    {
+        "matchItems": [
+            "createdeco:copper_coin",
+            "lightmanscurrency:coin_copper"
+        ],
+        "resultItems": "rimcraftcore:copper_coin"
+    },
+    {
+        "matchItems": [
+            "createdeco:gold_coin",
+            "lightmanscurrency:coin_gold"
+        ],
+        "resultItems": "rimcraftcore:gold_coin"
+    },
+    {
+        "matchItems": [
+            "lightmanscurrency:coin_emerald"
+        ],
+        "resultItems": "rimcraftcore:emerald_coin"
+    },
+    {
+        "matchItems": [
+            "createdeco:netherite_coin",
+            "lightmanscurrency:coin_netherite"
+        ],
+        "resultItems": "rimcraftcore:netherite_coin"
+    }
+]

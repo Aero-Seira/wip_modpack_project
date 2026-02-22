@@ -1,0 +1,23 @@
+StartupEvents.modifyCreativeTab("ae2:main", e => {
+  e.add([
+    'rimcraft:universal_press',
+    'rimcraft:bleak_electron_tube',
+    'rimcraft:redstone_paste',
+    'rimcraft:glowstone_paste',
+    'rimcraft:initial_processing_of_printed_engineering_processor',
+    'rimcraft:initial_processing_of_printed_calculation_processor',
+    'rimcraft:initial_processing_of_printed_logic_processor',
+    'rimcraft:engineering_processor_inscribed',
+    'rimcraft:calculation_processor_inscribed',
+    'rimcraft:logic_processor_inscribed',
+    'rimcraft:item_cell_housing_blank',
+    'rimcraft:fluid_cell_housing_blank',
+    'rimcraft:initial_processing_of_item_cell_housing',
+    'rimcraft:initial_processing_of_fluid_cell_housing',
+    'rimcraft:unformed_item_cell_housing',
+    'rimcraft:unformed_fluid_cell_housing',
+    'rimcraft:quartz_glass_parts',
+    'rimcraft:quartz_vibrant_glass_parts',
+    'rimcraft:cell_housing_curving_head',
+  ])
+})

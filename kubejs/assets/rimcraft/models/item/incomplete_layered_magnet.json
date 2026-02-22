@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+      "all": "rimcraft:item/incomplete_layered_magnet"
+    }
+  }

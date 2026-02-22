@@ -1,0 +1,13 @@
+#7E7 biomeswevegone:allium_shrubland
+#5C1 terralith:alpine_highlands
+#147 terralith:ashen_savanna
+#52D biomeswevegone:baobab_savanna
+#69B biomeswevegone:firecracker_chaparral
+#51E minecraft:jagged_peaks
+#015 biomeswevegone:prairie
+#3BC biomeswevegone:red_rock_valley
+#706 minecraft:savanna_plateau
+#254 terralith:shrubland
+#524 minecraft:snowy_slopes
+#536 biomeswevegone:temperate_grove
+#28B terralith:volcanic_peaks

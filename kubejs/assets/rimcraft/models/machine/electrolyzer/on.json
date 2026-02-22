@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+        "front": "rimcraft:block/custom_machine/electrolyzer/front_on",
+        "side": "rimcraft:block/custom_machine/electrolyzer/side",
+        "top": "rimcraft:block/custom_machine/electrolyzer/top"
+    }
+}

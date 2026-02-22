@@ -1,0 +1,10 @@
+{
+	"type": "forge:add_features",
+	"biomes": "#minecraft:is_overworld",
+	"features": [
+		"rimcraft:ore_tin_middle",
+		"rimcraft:ore_tin_small",
+		"rimcraft:ore_tin_upper"
+	],
+	"step": "underground_ores"
+}

@@ -1,0 +1,19 @@
+StartupEvents.modifyCreativeTab("megacells:tab", e => {
+  e.add([
+    'rimcraft:sky_stone_paste',
+    'rimcraft:initial_processing_of_printed_accumulation_processor',
+    'rimcraft:accumulation_processor_inscribed',
+    'rimcraft:mega_item_cell_housing_blank',
+    'rimcraft:mega_fluid_cell_housing_blank',
+    'rimcraft:initial_processing_of_mega_item_cell_housing',
+    'rimcraft:initial_processing_of_mega_fluid_cell_housing',
+    'rimcraft:unformed_mega_item_cell_housing',
+    'rimcraft:unformed_mega_fluid_cell_housing',
+  ])
+  e.remove([
+    "megacells:mega_interface",
+    "megacells:mega_pattern_provider",
+    'megacells:cable_mega_interface',
+    'megacells:cable_mega_pattern_provider',
+  ])
+})

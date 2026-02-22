@@ -1,0 +1,8 @@
+{
+  "machine.fission_reactor": {
+    "sounds": [
+      "rimcraft:fission_reactor"
+    ],
+    "subtitle": "sound_event.rimcraft.machine.fission_reactor"
+  }
+}

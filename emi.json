@@ -1,14 +1,8 @@
 {
   "favorites": [],
   "lookup_history": [
-    "item:youkaisfeasts:imitation_crab",
-    "item:youkaisfeasts:chest_of_heart_throbbing_surprise",
-    {
-      "type": "item",
-      "id": "youkaisfeasts:cucumber_slice",
-      "amount": 2
-    },
-    "item:youkaisfeasts:cucumber",
+    "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:1,GunFireMode:\"SEMI\",GunId:\"tacz:m320\",HasBulletInBarrel:1b}",
+    "item:ad_astra:tier_4_rocket{}",
     "item:oceansdelight:elder_guardian_slice",
     "item:oceansdelight:elder_guardian_roll",
     "item:pineapple_delight:pineapple_cake",

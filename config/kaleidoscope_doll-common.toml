@@ -1,8 +1,5 @@
 
 [doll]
-	#Whether to enable sponsored dolls
-	#是否启用赞助玩偶
-	EnableSponsoredDoll = true
 	#Whether dolls can be thrown by players
 	#玩偶是否可以被玩家丢出
 	DollCanBeThrown = true

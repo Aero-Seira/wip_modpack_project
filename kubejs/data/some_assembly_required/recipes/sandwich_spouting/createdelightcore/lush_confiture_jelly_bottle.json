@@ -1,0 +1,17 @@
+{
+    "type": "some_assembly_required:sandwich_spouting",
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "rimcraftcore"
+      }
+    ],
+    "fluid": {
+      "amount": 125,
+      "fluid": "rimcraft:lush_confiture_jelly",
+      "nbt": {}
+    },
+    "result": {
+      "item": "rimcraftcore:lush_confiture_jelly_bottle"
+    }
+  }

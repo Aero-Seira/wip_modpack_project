@@ -5,8 +5,8 @@
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -51,8 +51,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
+  "lightmanscurrency": {
+    "model_variant": true,
+    "model_variant.locked": false,
+    "paygate": true
   },
   "jadeaddons.create": {
     "filter": true,
@@ -64,8 +66,76 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "collectorsreap": {
+    "crop_progress": true
+  },
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
+  },
+  "expatternprovider": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
+  "quality_food": {
+    "quality": true
+  },
+  "kaleidoscope_doll": {
+    "doll_block": true,
+    "doll_entity": true
+  },
+  "functionalstorage": {
+    "armory": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "rimcraftcore.cmr": {
+    "snowman_cooler": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "mbd2": {
+    "recipe_logic_provider": true,
+    "multiblock_provider": true
+  },
+  "eclipticseasons": {
+    "greenhouse_core": true,
+    "animal": true,
+    "cauldron": true,
+    "crop": true,
+    "snowy_status": true,
+    "crop.shift_hint": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
   "yes_steve_model": {
     "model_info": true
+  },
+  "bakeries": {
+    "baysalt_frame": true,
+    "oven": true
+  },
+  "create_mechanical_spawner": {
+    "spawner_data": true
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "touhou_little_maid": {
     "maid": true,
@@ -79,12 +149,7 @@
   "supplementaries": {
     "hat_stand": true
   },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": true
+  "waystones": {
+    "waystone": true
   }
 }
