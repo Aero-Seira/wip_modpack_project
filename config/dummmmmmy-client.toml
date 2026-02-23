@@ -6,7 +6,7 @@
 	#Range: 0.0 ~ 2.0
 	animation_intensity = 0.75
 	#Show hearths instead of damage dealt? (1 hearth = two damage)
-	show_hearths = false
+	show_hearths = true
 	#Show damage numbers on entity
 	damage_numbers = true
 	#Display particles fullbright
