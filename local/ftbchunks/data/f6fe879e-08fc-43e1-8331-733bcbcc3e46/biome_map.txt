@@ -1,5 +1,6 @@
 #3F4 biomeswevegone:aspen_boreal
 #556 minecraft:beach
+#47F minecraft:birch_forest
 #694 biomeswevegone:cika_woods
 #3DF biomeswevegone:coconino_meadow
 #3D6 minecraft:cold_ocean
@@ -9,6 +10,7 @@
 #4CA minecraft:dripstone_caves
 #010 minecraft:forest
 #2D3 biomeswevegone:forgotten_forest
+#78A terralith:gravel_beach
 #17D biomeswevegone:maple_taiga
 #2D6 minecraft:meadow
 #4F1 minecraft:ocean
@@ -20,4 +22,5 @@
 #51A minecraft:stony_shore
 #169 minecraft:taiga
 #536 biomeswevegone:temperate_grove
+#3BC biomeswevegone:weeping_witch_forest
 #2FD biomeswevegone:zelkova_forest

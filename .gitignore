@@ -23,6 +23,8 @@ modernfix/
 *-natives/
 XaeroWaypoints_BACKUP*/
 .mixin.out/
+CustomSkinLoader/
+simplebackups/
 
 # 用户特定配置
 options.txt
@@ -33,6 +35,10 @@ servers.dat_old
 PCL/
 launcher_profiles.json
 launcher_profiles_microsoft_store.json
+tlm_custom_pack/
+tacz_bakcup/
+patchouli_books/
+local/
 
 # Xaero's 小地图和世界地图数据
 xaero/
