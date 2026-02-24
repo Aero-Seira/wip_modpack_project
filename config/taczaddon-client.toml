@@ -25,7 +25,7 @@ enableShowItemRelation = true
 
 ["Other Setting"]
 	#开启后，如果正处于非第一人称视角，使用枪械瞄准将自动切换为第一人称，取消瞄准后切换为原视角。
-	enableBetterAimCamera = true
+	enableBetterAimCamera = false
 	#开启后，切枪将没有后摇。
 	enableFastSwapGun = true
 
