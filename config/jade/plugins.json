@@ -94,9 +94,6 @@
   "balm": {
     "jade": true
   },
-  "rimcraftcore.cmr": {
-    "snowman_cooler": true
-  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -148,6 +145,9 @@
   },
   "supplementaries": {
     "hat_stand": true
+  },
+  "createdelightcore.cmr": {
+    "snowman_cooler": true
   },
   "waystones": {
     "waystone": true
