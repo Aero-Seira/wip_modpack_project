@@ -94,7 +94,7 @@
 [notification]
 	#Whether notifications should be posted in your chat when you receive them.
 	#Default: true
-	notificationsInChat=false
+	notificationsInChat=true
 #Tax Warning Settings
 [tax_warnings]
 	#Whether you should recieve a message in chat whenever you place a machine when server-wide taxes are enabled
