@@ -1,16 +1,5 @@
 {
   "attributes": {
-    "gunsmithlib:bullet_damage": {
-      "enabled": false,
-      "min": {
-        "default": -Infinity,
-        "value": -Infinity
-      },
-      "max": {
-        "default": Infinity,
-        "value": Infinity
-      }
-    },
     "forge:step_height_addition": {
       "enabled": false,
       "min": {
@@ -22,7 +11,7 @@
         "value": 512
       }
     },
-    "attributeslib:ghost_health": {
+    "l2damagetracker:explosion_damage": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -44,7 +33,40 @@
         "value": 2048
       }
     },
-    "attributeslib:prot_shred": {
+    "forge:nametag_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
+    "forge:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
+      }
+    },
+    "forge:block_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "l2damagetracker:crit_rate": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -55,103 +77,26 @@
         "value": 1
       }
     },
-    "attributeslib:armor_shred": {
-      "enabled": false,
+    "minecraft:generic.attack_speed": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2,
-        "value": 2
+        "default": 1024,
+        "value": 1024
       }
     },
-    "youkaishomecoming:hit_box": {
-      "enabled": false,
-      "min": {
-        "default": -0.2,
-        "value": -0.2
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:jumpboost": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "tetra:ability_damage": {
-      "enabled": false,
+    "minecraft:generic.attack_damage": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
         "default": 2048,
-        "value": 2048
-      }
-    },
-    "attributeslib:armor_pierce": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "protection_pixel:effectclear": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:highspeeddamageincrease": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "youkaishomecoming:max_resource": {
-      "enabled": false,
-      "min": {
-        "default": -10,
-        "value": -10
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "youkaishomecoming:initial_power": {
-      "enabled": false,
-      "min": {
-        "default": -10,
-        "value": -10
-      },
-      "max": {
-        "default": 10,
-        "value": 10
+        "value": 1000000
       }
     },
     "minecraft:generic.luck": {
@@ -165,26 +110,15 @@
         "value": 1024
       }
     },
-    "gunsmithlib:horz_recoil": {
-      "enabled": false,
-      "min": {
-        "default": -Infinity,
-        "value": -Infinity
-      },
-      "max": {
-        "default": Infinity,
-        "value": Infinity
-      }
-    },
-    "protection_pixel:fogperspective": {
-      "enabled": false,
+    "minecraft:generic.armor": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
         "default": 30,
-        "value": 30
+        "value": 1000000
       }
     },
     "touhou_little_maid:maid_use_item_speed": {
@@ -198,15 +132,15 @@
         "value": 2147483647
       }
     },
-    "youkaishomecoming:max_power": {
+    "touhou_little_maid:maid_passive_use_shield_tick": {
       "enabled": false,
       "min": {
-        "default": -10,
-        "value": -10
+        "default": 0,
+        "value": 0
       },
       "max": {
-        "default": 10,
-        "value": 10
+        "default": 2147483647,
+        "value": 2147483647
       }
     },
     "touhou_little_maid:maid_hunger": {
@@ -220,26 +154,15 @@
         "value": 2147483647
       }
     },
-    "protection_pixel:drone": {
+    "l2damagetracker:damage_absorption": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:prostheticattack": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
+        "default": 10000,
+        "value": 10000
       }
     },
     "forge:entity_reach": {
@@ -264,26 +187,15 @@
         "value": 2147483647
       }
     },
-    "tacz:tacz.bullet_resistance": {
-      "enabled": false,
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "gunsmithlib:internal_do_not_use_0": {
-      "enabled": false,
-      "min": {
-        "default": -1,
-        "value": -1
-      },
-      "max": {
-        "default": 2147483647,
-        "value": 2147483647
+        "default": 1024,
+        "value": 1024
       }
     },
     "touhou_little_maid:maid_gun_attack_speed": {
@@ -297,215 +209,6 @@
         "value": 2147483647
       }
     },
-    "protection_pixel:neutrality": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:breathinswimming": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "l2damagetracker:fire_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "minecraft:zombie.spawn_reinforcements": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "l2damagetracker:crit_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "attributeslib:crit_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "minecraft:generic.armor_toughness": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 20,
-        "value": 1000000
-      }
-    },
-    "protection_pixel:rocketassist": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "l2damagetracker:explosion_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "protection_pixel:pneumaticpickaxea": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:magicdamagereduction": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:floatshieldattribute": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 30,
-        "value": 30
-      }
-    },
-    "forge:block_reach": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "protection_pixel:weakradiation": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:burnreduction": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "minecraft:generic.attack_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "attributeslib:prot_pierce": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 34,
-        "value": 34
-      }
-    },
-    "minecraft:generic.flying_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "gunsmithlib:armor_piercing_ratio": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "touhou_little_maid:maid_shoot_cooldown": {
       "enabled": false,
       "min": {
@@ -517,37 +220,15 @@
         "value": 2147483647
       }
     },
-    "attributeslib:mining_speed": {
-      "enabled": false,
+    "minecraft:generic.movement_speed": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "gunsmithlib:ammo_capacity": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2147483647,
-        "value": 2147483647
-      }
-    },
-    "caelus:fall_flying": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
+        "default": 1024,
+        "value": 1024
       }
     },
     "l2damagetracker:magic_damage": {
@@ -572,8 +253,30 @@
         "value": 1000000
       }
     },
-    "protection_pixel:magneticattracttarget": {
+    "touhou_little_maid:maid_pickup_range": {
       "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      }
+    },
+    "l2damagetracker:fire_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
@@ -594,172 +297,7 @@
         "value": 2
       }
     },
-    "minecraft:generic.knockback_resistance": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:preventburial": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:suspension": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "attributeslib:overheal": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "attributeslib:healing_received": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "forge:entity_gravity": {
-      "enabled": false,
-      "min": {
-        "default": -8,
-        "value": -8
-      },
-      "max": {
-        "default": 8,
-        "value": 8
-      }
-    },
-    "protection_pixel:falldamagereduction": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:dynamicentityperception": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "attributeslib:cold_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "attributeslib:experience_gained": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "touhou_little_maid:maid_passive_use_shield_tick": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2147483647,
-        "value": 2147483647
-      }
-    },
-    "l2damagetracker:damage_absorption": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
-    "tetra:draw_strength": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
-    "protection_pixel:hellfire": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "attributeslib:dodge_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "attributeslib:fire_damage": {
+    "l2damagetracker:crit_damage": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -792,15 +330,26 @@
         "value": 1024
       }
     },
-    "protection_pixel:shielda": {
-      "enabled": false,
+    "minecraft:generic.knockback_resistance": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 25,
-        "value": 25
+        "default": 1,
+        "value": 1
+      }
+    },
+    "minecraft:generic.armor_toughness": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 1000000
       }
     },
     "touhou_little_maid:maid_crossbow_attack_speed": {
@@ -812,28 +361,6 @@
       "max": {
         "default": 2147483647,
         "value": 2147483647
-      }
-    },
-    "tetra:draw_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
-    "gunsmithlib:aim_lock_range": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
       }
     },
     "l2damagetracker:bow_strength": {
@@ -856,292 +383,6 @@
       "max": {
         "default": 10000,
         "value": 10000
-      }
-    },
-    "tetra:ability_cooldown": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
-    "attributeslib:crit_damage": {
-      "enabled": false,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "protection_pixel:arrowmarking": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "protection_pixel:magneticrange": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "forge:nametag_distance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 64,
-        "value": 64
-      }
-    },
-    "gunsmithlib:aim_lock_angle": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 360,
-        "value": 360
-      }
-    },
-    "gunsmithlib:bullet_speed": {
-      "enabled": false,
-      "min": {
-        "default": -Infinity,
-        "value": -Infinity
-      },
-      "max": {
-        "default": Infinity,
-        "value": Infinity
-      }
-    },
-    "l2damagetracker:crit_rate": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "gunsmithlib:vert_recoil": {
-      "enabled": false,
-      "min": {
-        "default": -Infinity,
-        "value": -Infinity
-      },
-      "max": {
-        "default": Infinity,
-        "value": Infinity
-      }
-    },
-    "minecraft:generic.attack_damage": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 1000000
-      }
-    },
-    "attributeslib:draw_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 4,
-        "value": 4
-      }
-    },
-    "minecraft:generic.armor": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 30,
-        "value": 1000000
-      }
-    },
-    "gunsmithlib:reload_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": Infinity,
-        "value": Infinity
-      }
-    },
-    "protection_pixel:cleave": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "gunsmithlib:rpm": {
-      "enabled": false,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 1200,
-        "value": 1200
-      }
-    },
-    "attributeslib:current_hp_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "minecraft:generic.movement_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "protection_pixel:arrowbarrier": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "youkaishomecoming:initial_resource": {
-      "enabled": false,
-      "min": {
-        "default": -10,
-        "value": -10
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "touhou_little_maid:maid_pickup_range": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
-        "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-      }
-    },
-    "protection_pixel:healthconversion": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "attributeslib:arrow_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "attributeslib:arrow_velocity": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "gunsmithlib:headshot_multiplier": {
-      "enabled": false,
-      "min": {
-        "default": -Infinity,
-        "value": -Infinity
-      },
-      "max": {
-        "default": Infinity,
-        "value": Infinity
-      }
-    },
-    "youkaishomecoming:graze_effectiveness": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "attributeslib:life_steal": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
       }
     }
   }

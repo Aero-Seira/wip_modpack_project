@@ -5,8 +5,8 @@
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "item_storage": true,
     "item_storage.normal_amount": 9,
+    "item_storage": true,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -51,6 +51,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -61,98 +64,12 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "collectorsreap": {
-    "crop_progress": true
-  },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": true
-  },
-  "ae2": {
-    "part_icon": true,
-    "charger": true,
-    "debug": true,
-    "part_tooltip": true,
-    "grid_node_state": true,
-    "pattern_provider": true,
-    "part_mod_name": true,
-    "power_storage": true,
-    "crafting_monitor": true,
-    "part_name": true
-  },
-  "mbd2": {
-    "recipe_logic_provider": true,
-    "multiblock_provider": true
-  },
-  "eclipticseasons": {
-    "greenhouse_core": true,
-    "animal": true,
-    "cauldron": true,
-    "crop": true,
-    "snowy_status": true,
-    "crop.shift_hint": true
-  },
-  "extendedae_plus": {
-    "labeled_wireless_component": true,
-    "wt_locked": true,
-    "wt_frequency": true,
-    "wt_network_usable": true,
-    "wt_master_mode": true,
-    "wt_channels": true,
-    "wt_master_location": true,
-    "wt_owner": true
-  },
   "yes_steve_model": {
     "model_info": true
-  },
-  "create_mechanical_spawner": {
-    "spawner_data": true
   },
   "touhou_little_maid": {
     "maid": true,
     "shrine_lamp": true
-  },
-  "waystones": {
-    "waystone": true
-  },
-  "industrial_platform": {
-    "common": true
-  },
-  "lightmanscurrency": {
-    "model_variant": true,
-    "model_variant.locked": false,
-    "paygate": true
-  },
-  "expatternprovider": {
-    "jade_chamber": true,
-    "jade_wireless": true
-  },
-  "quality_food": {
-    "quality": true
-  },
-  "kaleidoscope_doll": {
-    "doll_block": true,
-    "doll_entity": true
-  },
-  "functionalstorage": {
-    "armory": true
-  },
-  "balm": {
-    "jade": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "bakeries": {
-    "baysalt_frame": true,
-    "oven": true
-  },
-  "jadeaddons.lootr": {
-    "info": true
   },
   "delightful": {
     "crop_progress": true,
@@ -162,7 +79,12 @@
   "supplementaries": {
     "hat_stand": true
   },
-  "createdelightcore.cmr": {
-    "snowman_cooler": true
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
   }
 }
